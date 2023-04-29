@@ -21,7 +21,7 @@ const config = {
   organizationName: 'phx-verse', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',  // throw
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -43,11 +43,12 @@ const config = {
           editUrl:
             'https://github.com/phx-verse/docs/tree/main/docs/',
         },
-        blog: {
+        blog: false,
+        /* blog: {
           showReadingTime: true,
           editUrl:
             'https://github.com/phx-verse/docs/tree/main/blog/',
-        },
+        }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -89,7 +90,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
