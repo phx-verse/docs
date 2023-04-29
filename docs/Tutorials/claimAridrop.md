@@ -27,6 +27,6 @@ After wallets ready, open the [airdrop page of ConfluxHub](https://confluxhub.io
 
 After connecting both wallets, you can see the list of airdrop tokens. If there are tokens available for claiming, the claim button will be clickable. Click on it to claim the tokens.
 
-![](./img/conflux-hub-airdrop.jpeg)
+![](./img/conflux-hub-airdrop.png)
 
 The one-click option is available on this page to add the token to MetaMask wallet (the button next to the address). After adding, you can view the received PHX tokens in your MetaMask wallet.
