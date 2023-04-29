@@ -2,9 +2,9 @@
 
 ## About
 
-## Todo
+PHX Documentation site built using [Docusaurus 2](https://docusaurus.io/).
 
-1. Github Action To Auto Deploy to Github Pages
+## Todo
 
 ## Run Locally
 

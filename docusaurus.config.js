@@ -21,7 +21,7 @@ const config = {
   organizationName: 'phx-verse', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
-  onBrokenLinks: 'warn',  // throw
+  onBrokenLinks: 'throw',  // throw
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -92,6 +92,10 @@ const config = {
                 label: 'Docs',
                 to: '/',
               },
+              {
+                label: 'PHX V1',
+                href: 'https://pospool.phxverse.com/',
+              },
             ],
           },
           {
@@ -107,7 +111,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: ' https://twitter.com/phxverse',
+                href: 'https://twitter.com/phxverse',
               },
             ],
           },
