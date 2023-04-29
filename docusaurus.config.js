@@ -73,7 +73,7 @@ const config = {
             position: 'left',
             label: 'Home',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
+        //   {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/phx-verse',
             label: 'GitHub',
@@ -113,10 +113,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+              /* {
                 label: 'Blog',
                 to: '/blog',
-              },
+              }, */
               {
                 label: 'GitHub',
                 href: 'https://github.com/phx-verse',
