@@ -41,13 +41,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/phx-verse/docs/tree/main/docs/',
+            'https://github.com/phx-verse/docs/tree/main/',
         },
         blog: false,
         /* blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/phx-verse/docs/tree/main/blog/',
+            'https://github.com/phx-verse/docs/tree/main/',
         }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
