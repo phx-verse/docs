@@ -5,13 +5,13 @@ sidebar_position: 3
 
 # PHX DAO
 
-The PHX DAO is a Decentralised Autonomous Organisation that manages the PHXVerse by deciding on key parameters (e.g., setting fees and oracles, etc.) through the voting power of governance token (PHX) holders. Also, the DAO will accumulate service fees and spend them on research, development, liquidity mining incentives and protocol upgrades.
+The PHX DAO is a Decentralized Autonomous Organization that manages the PHXVerse by deciding on key parameters (e.g., setting fees and oracles, etc.) through the voting power of governance token (PHX) holders. Also, the DAO will accumulate service fees and spend them on research, development, liquidity mining incentives and protocol upgrades.
 
 ## Why DAO?
 
-The DAO is the logical compromise between full centralization and decentralisation, which allows the deployment of competitive products without full centralization and custody on the exchanges. We do not believe that it is possible to make a liquid staking protocol that is completely trustless. A DAO is an optimal structure for launching PHX as:
+The DAO is the logical compromise between full centralization and decentralization, which allows the deployment of competitive products without full centralization and custody on the exchanges. We do not believe that it is possible to make a liquid staking protocol that is completely trustless. A DAO is an optimal structure for launching PHX as:
 
-* DAO is essentially a decentralised entity, which is enabling a focus on community and might offer a more socially-conscious structure and consequent decision-making;
+* DAO is essentially a decentralized entity, which is enabling a focus on community and might offer a more socially-conscious structure and consequent decision-making;
 * DAO will be able to cover the costs of developing and upgrading the protocol from the DAO token treasury.
 * And other management activities as well if there is a technical ability
 
@@ -19,7 +19,7 @@ The DAO will accumulate service fees from PHX PoS Pool, which is funnelled into 
 
 ## Governance
 
-The PHX token governs all PHX DAO governance and network decisions to ensure its prolonged stability and decentralised decision-making to facilitate the growth of fair, and transparent liquid staking.
+The PHX token governs all PHX DAO governance and network decisions to ensure its prolonged stability and decentralized decision-making to facilitate the growth of fair, and transparent liquid staking.
 
 The governance details and vote infrastructure is still under construction. We will release more info in the near future.
 
@@ -51,7 +51,7 @@ The rest of tokens will be reserve for future investors.
 
 ### Team Fund
 
-The team fund will be used incentive project development and future team members. It will be locked for three months after PHX v2 launch, then will be linear release.
+The team fund will be used incentive project development and future team members. It will be locked for three months after PHX V2 launch, then will be linear release.
 
 ### Addresses
 
