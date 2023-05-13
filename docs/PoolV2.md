@@ -51,7 +51,7 @@ Turbo mode is a redemption mode of Pool V2. In this mode, users can immediately 
 * Newly pledged CFX will be used first for redemption requests, and the remaining part will be put into PoS.
 * When performing the unpledge operation from PoS, only multiples of 1000 can be unpledged. Therefore, it is inevitable to unpledge more than the required amount of CFX. This part of the CFX can also be used for fast redemption.
 
-### Handling Fee
+## Handling Fee
 
 PHX v2 will charge a 10% handling fee for the PoS income of the staking pool. The handling fee will be used for the following purposes:
 
