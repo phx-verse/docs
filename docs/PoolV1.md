@@ -3,7 +3,7 @@ slug: /poolv1
 sidebar_position: 2
 ---
 
-# Pool V1
+# PHX V1
 
 ## Introduction
 

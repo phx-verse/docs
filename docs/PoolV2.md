@@ -3,7 +3,7 @@ slug: /poolv2
 sidebar_position: 4
 ---
 
-# Pool V2
+# PHX V2
 
 ## Introduction
 
@@ -50,6 +50,13 @@ Turbo mode is a redemption mode of Pool V2. In this mode, users can immediately 
 * The handling fee income of Pool V2 (10% of PoS income) can also be used for fast redemption.
 * Newly pledged CFX will be used first for redemption requests, and the remaining part will be put into PoS.
 * When performing the unpledge operation from PoS, only multiples of 1000 can be unpledged. Therefore, it is inevitable to unpledge more than the required amount of CFX. This part of the CFX can also be used for fast redemption.
+
+### Handling Fee
+
+PHX v2 will charge a 10% handling fee for the PoS income of the staking pool. The handling fee will be used for the following purposes:
+
+* 50% of the handling fee will be used for repurchased and burned PHX
+* rest of the handling fee will be used for fast redemption, covering the development and operation costs of Pool V2
 
 ## Farming
 
