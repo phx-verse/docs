@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PHXVERSE Documentation',
-  tagline: 'PHXVERSE is a Crypto MetaVerse',
-  favicon: 'img/favicon.ico',
+  title: 'PHXVerse Docs',
+  tagline: 'PHXVerse is a Crypto MetaVerse',
+  favicon: 'img/phx200.png',
 
   // Set the production url of your site here
   url: 'https://docs.phxverse.com',
@@ -60,12 +60,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/phxverse.jpeg',
+      image: 'img/phx300.png',
       navbar: {
-        title: 'PHXVERSE',
+        title: 'PHXVerse',
         logo: {
-          alt: 'PHXVERSE',
-          src: 'img/phxverse.jpeg',
+          alt: 'PHXVerse',
+          src: 'img/phx300.png',
         },
         items: [
           {
@@ -93,7 +93,7 @@ const config = {
                 to: '/',
               },
               {
-                label: 'PHX V1',
+                label: 'PHX Pool v1',
                 href: 'https://pospool.phxverse.com/',
               },
             ],
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} PHXVERSE, Lab.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PHXVerse, Lab.`,
       },
       prism: {
         theme: lightCodeTheme,

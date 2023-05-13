@@ -1,4 +1,4 @@
-# PHXVERSE Docs
+# PHXVerse Docs
 
 ## About
 

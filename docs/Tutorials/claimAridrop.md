@@ -1,11 +1,11 @@
 ---
 slug: /tutorial/claimAirdrop
-sidebar_position: 3
+sidebar_position: 13
 ---
 
 # Claim Airdrop
 
-PHX is the governance token of PHXVERSE, deployed on Conflux eSpace, the token address is `0x13db4686f3D1D9ec918A70AE8fbd52f82949906C`.
+PHX is the governance token of PHXVerse, deployed on Conflux eSpace, the token address is `0x13db4686f3D1D9ec918A70AE8fbd52f82949906C`.
 
 If you are a user of PHX pool or a holder of the PHX Pool v1 Genesis NFT, then you have the opportunity to claim PHX tokens. The claiming process is as follows:
 

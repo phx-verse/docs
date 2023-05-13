@@ -1,12 +1,15 @@
 ---
-sidebar_position: 2
+sidebar_position: 7
 ---
 
 # AirDrop
 
-As a reward to loyal users of PHX Pool, we will be airdropping PHX governance tokens to the pool's users to thank them for their ongoing support of PHXVERSE. 
+:::tip Airdrop is already closed.
+:::
 
-PHX is the DAO token of PHXVERSE, the initial supply of PHX is 100,000,000. The airdrop rules are:
+As a reward to loyal users of PHX Pool, we will be airdropping PHX governance tokens to the pool's users to thank them for their ongoing support of PHXVerse. 
+
+PHX is the DAO token of PHXVerse, the initial supply of PHX is 100,000,000. The airdrop rules are:
 
 1. Every vote (1 Vote = 1000 CFX) in the current PHX PoS pool (including both Core and eSpace) will get 50 PHX, the snapshot will be taken at 2023-04-30 00:00:00 UTC
 2. Every genesis NFT holder will get 100 PHX, the snapshot will be taken on 2023-04-30 00:00:00 UTC

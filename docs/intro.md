@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Overview
 
-**PHXVERSE** is a crypto MetaVerse committed to bringing Web3 into the mainstream world, making people's lives easier, and freeing them from the shackles of centralized authority.
+**PHXVerse** is a crypto MetaVerse committed to bringing Web3 into the mainstream world, making people's lives easier, and freeing them from the shackles of centralized authority.
 
 Currently, we are focused on building decentralized applications for the high-performance blockchain network [ConfluxNetwork](https://confluxnetwork.org). Conflux is a third-generation decentralized network that is high-performance, decentralized and operates on a PoW + PoS consensus mechanism.
 
