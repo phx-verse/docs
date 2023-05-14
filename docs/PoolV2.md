@@ -5,6 +5,8 @@ sidebar_position: 4
 
 # PHX V2
 
+PHXVerse will continue to improve the product features and experience of PHX PoS, and all PHXVerse products put safety first, and security is the foundation of all other functions. In any case, the safety of users' funds will be guaranteed first.
+
 ## Introduction
 
 PHX V2 is the next-generation PHX PoS staking pool, deployed on Conflux eSpace. Its main improvement is to improve liquidity and yield, and it has the following characteristics:
