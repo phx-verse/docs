@@ -43,12 +43,12 @@ const config = {
           editUrl:
             'https://github.com/phx-verse/docs/tree/main/',
         },
-        blog: false,
-        /* blog: {
+        // blog: false,
+        blog: {
           showReadingTime: true,
           editUrl:
             'https://github.com/phx-verse/docs/tree/main/',
-        }, */
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -74,11 +74,13 @@ const config = {
             position: 'left',
             label: 'Home',
           },
-        //   {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/phx-verse',
-            label: 'GitHub',
+            // label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -89,22 +91,18 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Docs',
-                to: '/',
+                label: 'PHXPool V1',
+                href: 'https://pospool.phxverse.com',
               },
               {
-                label: 'PHX Pool v1',
-                href: 'https://pospool.phxverse.com/',
+                label: 'PHXPool V2',
+                href: 'https://app.phxverse.com',
               },
             ],
           },
           {
             title: 'Community',
             items: [
-              /* {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              }, */
               {
                 label: 'Discord',
                 href: 'https://discord.gg/qCt85SsMFS',
@@ -112,6 +110,10 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/phxverse',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/phxverse01',
               },
             ],
           },
