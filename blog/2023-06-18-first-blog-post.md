@@ -18,7 +18,7 @@ PHX V2 is a major upgrade that has the following advantages compared to V1:
 
 Starting today, PHX V2 will undergo a one-week public test, and anyone can participate in using V2. We welcome everyone to raise questions and provide feedback, and the first 100 users will receive a reward of 100 PHX.
 
-* PHX V2 link: https://app.phxverse.com
+* PHX V2 link (**Only support Conflux eSpace now**): https://app.phxverse.com
 * Conflux eSpace faucet: https://efaucet.confluxnetwork.org/
 * Receiving condition: The user must have interacted with PHX V2 cCFX contract, PHX staking contract, LP staking contract.
 * Where to post issues: https://github.com/phx-verse/docs/issues
