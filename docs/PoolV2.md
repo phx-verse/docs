@@ -1,6 +1,6 @@
 ---
 slug: /poolv2
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # PHX V2
