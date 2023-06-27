@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.phxverse.com/blog</id>
     <title>PHXVerse Docs Blog</title>
-    <updated>2023-06-18T00:00:00.000Z</updated>
+    <updated>2023-06-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.phxverse.com/blog"/>
     <subtitle>PHXVerse Docs Blog</subtitle>
     <icon>https://docs.phxverse.com/img/phx200.png</icon>
+    <entry>
+        <title type="html"><![CDATA[V2 Launch Schedule]]></title>
+        <id>https://docs.phxverse.com/blog/v2-launch-schedule</id>
+        <link href="https://docs.phxverse.com/blog/v2-launch-schedule"/>
+        <updated>2023-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After two weeks of public beta testing, PHX V2 has received feedback from 204 independent addresses in the community. We have made corresponding optimizations for the issues raised and now PHX V2 is ready to go live.]]></summary>
+        <content type="html"><![CDATA[<p>After two weeks of public beta testing, PHX V2 has received feedback from 204 independent addresses in the community. We have made corresponding optimizations for the issues raised and now PHX V2 is ready to go live.</p><p>The preliminary plan for the launch steps are as follows:</p><ol><li>PHX V2 core features (Stake, Withdrawal) will be launched on <code>2023.7.1 08:00 (UTC+0)</code>. At that time, all contracts will be deployed and the UI will be launched simultaneously.</li><li>The VotingEscrow and LP staking contract will be launched on <code>2023.7.3 08:00 (UTC+0)</code>. Users can stake LP and participate in VotingEscrow staking at that time.</li><li>PHX/CFX trading pair will have initial liquidity added on Swappi on <code>July 3, 2023 at 08:00 (UTC+0)</code>. The initial price for PHX is <strong>0.11 CFX</strong>.</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="farming">Farming<a href="#farming" class="hash-link" aria-label="Direct link to Farming" title="Direct link to Farming">​</a></h2><p>PHX V2 Farming will start from <code>2023.7.3 08:00 (UTC+0) block timestamp(1688371200)</code> and the initial LPs available are:</p><ul><li><code>cCFX/CFX</code></li><li><code>PHX/CFX</code></li></ul><p>LP mining releases a total of <code>24 million PHX</code>, with a release period of <code>48 months</code>.</p><p>More LP mining opportunities will be available in the future, such as <code>sWCFX/CFX</code>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="public-test-rewards">Public Test Rewards<a href="#public-test-rewards" class="hash-link" aria-label="Direct link to Public Test Rewards" title="Direct link to Public Test Rewards">​</a></h2><p>The first 100 addresses to participate in the PHX V2 public test will receive a reward of 100 PHX, which will be directly airdropped to their wallet address on <code>July 8, 2023, at 08:00 (UTC+0)</code>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="faqs">FAQs<a href="#faqs" class="hash-link" aria-label="Direct link to FAQs" title="Direct link to FAQs">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-can-the-cfx-pledged-in-phx-v1-participate-in-v2-mining">1. Can the CFX pledged in PHX V1 participate in V2 mining?<a href="#1-can-the-cfx-pledged-in-phx-v1-participate-in-v2-mining" class="hash-link" aria-label="Direct link to 1. Can the CFX pledged in PHX V1 participate in V2 mining?" title="Direct link to 1. Can the CFX pledged in PHX V1 participate in V2 mining?">​</a></h3><p>Not possible, you need to extract CFX from V1 and then stake it on V2.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-how-to-migrate-cfx-from-core-space-to-espace">2. How to migrate CFX from Core space to eSpace?<a href="#2-how-to-migrate-cfx-from-core-space-to-espace" class="hash-link" aria-label="Direct link to 2. How to migrate CFX from Core space to eSpace?" title="Direct link to 2. How to migrate CFX from Core space to eSpace?">​</a></h3><p>CFX can be transferred from the Core space to the eSpace using the Space Bridge feature on <a href="https://confluxhub.io/espace-bridge/cross-space" target="_blank" rel="noopener noreferrer">ConfluxHub</a>.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-will-there-be-phx-rewards-if-lp-staking-is-done-in-advance">3. Will there be PHX rewards if LP staking is done in advance?<a href="#3-will-there-be-phx-rewards-if-lp-staking-is-done-in-advance" class="hash-link" aria-label="Direct link to 3. Will there be PHX rewards if LP staking is done in advance?" title="Direct link to 3. Will there be PHX rewards if LP staking is done in advance?">​</a></h3><p>For those who are not aware, LP staking rewards will be distributed on <code>2023.7.3 08:00 (UTC+0)</code> based on the block timestamp (1688371200). There will be no PHX rewards for LP staking prior to this date.</p>]]></content>
+        <author>
+            <name>phx9</name>
+            <uri>https://github.com/phx9</uri>
+        </author>
+        <category label="PHX" term="PHX"/>
+        <category label="LSD" term="LSD"/>
+        <category label="V2" term="V2"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Born of the PHXVerse]]></title>
         <id>https://docs.phxverse.com/blog/first-blog-post</id>
