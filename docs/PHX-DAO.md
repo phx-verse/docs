@@ -51,7 +51,7 @@ The rest of tokens will be reserve for future investors.
 
 ### Team Fund
 
-The team fund will be used incentive project development and future team members. It will be locked for three months after PHX V2 launch, then will be linear release.
+The team fund will be used incentive project development and future team members. It will be locked for three months after PHX V2 launch, then will be linear release in four years.
 
 ### Addresses
 

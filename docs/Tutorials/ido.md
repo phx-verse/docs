@@ -5,6 +5,9 @@ sidebar_position: 15
 
 # IDO
 
+:::tip IDO is already finished.
+:::
+
 In order to provide sufficient liquidity on Dex (Swappi) during the launch of PHXPool V2, we will raise a certain amount of CFX through IDO before the launch of PHXPool V2 according to the following rules:
 
 * IDO amount: 1000,000 PHX

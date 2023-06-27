@@ -62,20 +62,18 @@ PHX v2 will charge a 10% handling fee for the PoS income of the staking pool. Th
 
 ## Farming
 
-After the launch of PHX V2, to incentivize users who participate in pledging, Farming will be launch. All users holding cCFX will receive PHX tokens. The specific rules are as follows:
+After the launch of PHX V2, PHX and cCFX will also create transaction pairs on Swap, to incentivize users who participate in pledging, Farming will be launch. The specific rules are as follows:
 
-* Farming total amount is 24 million PHX, released in 24 months, 1 million PHX per month
-* Distribute PHX according to the proportion of cCFX held by users, which can be claimed at any time
+* Farming total amount is 24 million PHX, released in 48 months
+* Distribute PHX according to the proportion of LP staked by users, which can be claimed at any time
 * PHX can be re-pledged into the Farming pool to increase PHX acquisition speed
-
-After PHX V2 is launched, PHX and cCFX will also create transaction pairs on Swap. We will also provide incentives to liquidity providers for transaction pairs, and LP tokens of transaction pairs can also participate in Farming. Specific rules will be announced later.
 
 ## FAQs
 
-#### 1. Why is the amount of cCFX I received less than the amount of CFX pledged?
+### 1. Why is the amount of cCFX I received less than the amount of CFX pledged?
 
 The exchange ratio between cCFX and CFX is slightly greater than 1, and it increases with time. Therefore, the amount of cCFX obtained by pledging is usually less than the amounts of CFX pledged.
 
-#### 2. Can I redeem it immediately after pledging CFX?
+### 2. Can I redeem it immediately after pledging CFX?
 
 Yes, cCFX can be redeemed at any time. However, there may be a certain waiting time for the redeemed CFX, and the specific waiting time can be viewed when redeeming.
