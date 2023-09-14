@@ -69,3 +69,11 @@ Complete contract interface can be checked in [Conflux Scan account page's contr
 ![](./img/cCFX-read-methods.png)
 
 ## FAQs
+
+### How to earn PoS rewards?
+
+By holding cCFX you can earn PoS rewards, because the cCFX/CFX exchange ratio is continually increase, at an estimated 12% APY. Which means if you hold 100 cCFX for one year, you can exchange 112 CFX back.
+
+### What the redeem complete period?
+
+Normally the redeem duration is couple minutes to one day.
