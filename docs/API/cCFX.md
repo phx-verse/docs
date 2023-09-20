@@ -62,11 +62,41 @@ function withdraw(uint256 amount) external;
 
 Call this method to extract the redeemed CFX from the completion and transfer it to the personal account.
 
-## Complete Contract Interface
+## Complete Contract ABI
 
-Complete contract interface can be checked in [Conflux Scan account page's contract tab](https://evm.confluxscan.io/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=contract-viewer)
+Below is the complete ABI of the cCFX contract, can be used in ethers.js:
 
-![](./img/cCFX-read-methods.png)
+```js
+[
+  "event Approval(address indexed,address indexed,uint256)",
+  "event Deposit(address indexed,uint256,uint256)",
+  "event Redeem(address indexed,uint256,uint256)",
+  "event Transfer(address indexed,address indexed,uint256)",
+  "event Withdraw(address indexed,uint256)",
+  "function allowance(address,address) view returns (uint256)",
+  "function approve(address,uint256) returns (bool)",
+  "function balanceOf(address) view returns (uint256)",
+  "function cfxRatio() view returns (uint256)",
+  "function decimals() view returns (uint8)",
+  "function decreaseAllowance(address,uint256) returns (bool)",
+  "function deposit() payable",
+  "function increaseAllowance(address,uint256) returns (bool)",
+  "function name() view returns (string)",
+  "function redeem(uint256)",
+  "function supportsInterface(bytes4) view returns (bool)",
+  "function symbol() view returns (string)",
+  "function totalAssets() view returns (uint256)",
+  "function totalRedeemedAssets() view returns (uint256)",
+  "function totalSupply() view returns (uint256)",
+  "function transfer(address,uint256) returns (bool)",
+  "function transferFrom(address,address,uint256) returns (bool)",
+  "function userRedeemedAssets(address) view returns (uint256)",
+  "function userWithdrawableAssets(address) view returns (uint256)",
+  "function withdraw(uint256)"
+]
+```
+
+Complete contract interface also can be checked in [Conflux Scan account page's contract tab](https://evm.confluxscan.io/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=contract-viewer)
 
 ## FAQs
 
