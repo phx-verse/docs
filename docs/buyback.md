@@ -5,11 +5,17 @@ title: Buyback Record
 
 Every month, we will use 50% of the PHX v2 revenue to buy back PHX from the market and burn it. The buyback record will be published here.
 
+## 2014.3.31
+
+* Income: 1881 CFX
+* Buyback: 1881 CFX
+* PHX burned: 34136 PHX
+* TX Hash: 0x52c39fd009f85bcd697bc0706a617f076c07c272acef6d92e51b2fc24b608c84
+
 ## 2024.3.6
 
 * Income: 1786 CFX
 * Buyback: 1786 CFX
-* Additional: 0 CFX
 * PHX burned: 30118.5 PHX
 * TX Hash: 0x8cd2fb3ba470563b5264db9b0aaa3b082d0439df613548aab22d4510c9f38bef
 
@@ -17,7 +23,6 @@ Every month, we will use 50% of the PHX v2 revenue to buy back PHX from the mark
 
 * Income: 2737 CFX
 * Buyback: 2737 CFX
-* Additional: 0 CFX
 * PHX burned: 39779.975 PHX
 * TX Hash: 0x43e9cb2d4e740666292a5670bfeb5427cfbcbb73a7ebf8cb80039b7600f08832
 
