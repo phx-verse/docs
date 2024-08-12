@@ -5,6 +5,13 @@ title: Buyback Record
 
 Every month, we will use 50% of the PHX v2 revenue to buy back PHX from the market and burn it. The buyback record will be published here.
 
+## 2024.8.11
+
+* Income: 3855 CFX
+* Buyback: 1927 CFX
+* PHX burned: 56391.364 PHX
+* TX Hash: 0x55d13567396b324a9f2d07cc0c97dbd588a4b647dfd40a206ecebef6acdf58b2
+
 ## 2024.7.1
 
 * Income: 14930 CFX
