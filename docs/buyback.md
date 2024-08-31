@@ -7,6 +7,13 @@ Every month, we will use 50% of the PHX v2 revenue to buy back PHX from the mark
 
 ## 2024.8.11
 
+* Income: 1847 CFX
+* Buyback: 923 CFX
+* PHX burned: 27762 PHX
+* TX Hash: 0x6ad77bf2969d910dd3efda542d8fd3e8fdef7c534eb84b8c5b1348284b72fec3
+
+## 2024.8.11
+
 * Income: 3855 CFX
 * Buyback: 1927 CFX
 * PHX burned: 56391.364 PHX
