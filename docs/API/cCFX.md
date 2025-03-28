@@ -5,7 +5,7 @@ sidebar_position: 14
 
 # cCFX Contract
 
-The cCFX contract is the core of PHX v2, which allows users to stake CFX and earn rewards through PoS. It also functions as a standard ERC-20 contract. Its address is: [`0xa11ad495c3bf53c19368313a894ba49bc26e7f92`](https://evm.confluxscan.io/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=contract-viewer)
+The cCFX contract is the core of PHX v2, which allows users to stake CFX and earn rewards through PoS. It also functions as a standard ERC-20 contract. Its address is: [`0xa11ad495c3bf53c19368313a894ba49bc26e7f92`](https://evm.confluxscan.org/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=contract-viewer)
 
 It extends the following methods on the basis of ERC20 to realize the function of depositing CFX and participating in PoS to obtain income.
 
@@ -96,7 +96,7 @@ Below is the complete ABI of the cCFX contract, can be used in ethers.js:
 ]
 ```
 
-Complete contract interface also can be checked in [Conflux Scan account page's contract tab](https://evm.confluxscan.io/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=contract-viewer)
+Complete contract interface also can be checked in [Conflux Scan account page's contract tab](https://evm.confluxscan.org/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=contract-viewer)
 
 ## FAQs
 

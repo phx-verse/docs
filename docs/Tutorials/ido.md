@@ -20,7 +20,7 @@ All raised CFX will be used to provide PHX/CFX trading liquidity.
 
 ## How to participate in IDO
 
-Participation is very simple, just send CFX directly to the IDO contract address, which is [`0x38c5BF398Ed531d5D1297D4c4E2043efA09564dc`](https://evm.confluxscan.io/address/0x38c5bf398ed531d5d1297d4c4e2043efa09564dc). After the transaction is successful, you will receive the corresponding amount of PHX.
+Participation is very simple, just send CFX directly to the IDO contract address, which is [`0x38c5BF398Ed531d5D1297D4c4E2043efA09564dc`](https://evm.confluxscan.org/address/0x38c5bf398ed531d5d1297d4c4e2043efa09564dc). After the transaction is successful, you will receive the corresponding amount of PHX.
 
 **Attention: Please check if the PHX balance of the IDO contract is 0 before sending. If it is 0, it means that the IDO has been sold out. Also, please make sure the target address is correct.**
 
