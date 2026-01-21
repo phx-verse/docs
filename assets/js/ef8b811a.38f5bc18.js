@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8947],{6600(e){e.exports=JSON.parse('{"authors":[{"name":"phx9","title":"Maintainer of PHXVerse","url":"https://github.com/phx9","imageURL":"https://avatars.githubusercontent.com/u/96976012?v=4","key":"phx9","page":null,"count":2}]}')}}]);
