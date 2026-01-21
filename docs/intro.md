@@ -7,8 +7,10 @@ sidebar_position: 1
 
 **PHXVerse** is a crypto MetaVerse committed to bringing Web3 into the mainstream world, making people's lives easier, and freeing them from the shackles of centralized authority.
 
-Currently, we are focused on building decentralized applications for the high-performance blockchain network [ConfluxNetwork](https://confluxnetwork.org). Conflux is a third-generation decentralized network that is high-performance, decentralized and operates on a PoW + PoS consensus mechanism.
+Currently, we are focused on providing secure and efficient PoS staking services, and have already provided staking services for three major networks:
 
-Our first Dapp is a [decentralized PoS staking pool](https://pospool.phxverse.com/), which is a secure and convenient application that allows CFX holders to stake and withdraw rewards at any time without running a node. It has been running steadily for over a year, with a total stake of over ten million and total earnings of nearly two million, without any issues during this period.
+1. Conflux Core Space: https://pospool.phxverse.com/
+2. Conflux eSpace: https://app.phxverse.com/
+3. Monad Network: https://monad.phxverse.com/
 
-Next, we will develop the second generation of PoS mining pools, aiming to increase the utilization and liquidity of funds and continue to strengthen the security of the mining pool. And introduce decentralized governance for mining pool operations, thus achieving a complete transformation towards Web3.
+We will expand more network staking services in the future and will launch more Web3-related products and services, please stay tuned!

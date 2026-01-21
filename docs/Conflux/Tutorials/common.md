@@ -1,6 +1,6 @@
 ---
 slug: /tutorial/common
-sidebar_position: 14
+sidebar_position: 4.7
 ---
 
 # Common Tutorials

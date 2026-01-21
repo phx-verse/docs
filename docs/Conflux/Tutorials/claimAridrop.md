@@ -1,6 +1,6 @@
 ---
 slug: /tutorial/claimAirdrop
-sidebar_position: 13
+sidebar_position: 4.6
 ---
 
 # Claim Airdrop

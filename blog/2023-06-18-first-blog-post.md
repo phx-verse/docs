@@ -14,6 +14,8 @@ PHX V2 is a major upgrade that has the following advantages compared to V1:
 3. Supports compounding, resulting in higher yields.
 4. Completely new UI, which is more streamlined and user-friendly.
 
+<!-- truncate -->
+
 ![](./imgs/phx2-shot.png)
 
 Starting today, PHX V2 will undergo a one-week public test, and anyone can participate in using V2. We welcome everyone to raise questions and provide feedback, and the first 100 users will receive a reward of 100 PHX.

@@ -1,6 +1,6 @@
 ---
 slug: /api/ccfx
-sidebar_position: 14
+sidebar_position: 4.5
 ---
 
 # cCFX Contract

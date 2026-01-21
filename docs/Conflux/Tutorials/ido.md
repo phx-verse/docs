@@ -1,6 +1,6 @@
 ---
 slug: /tutorial/ido
-sidebar_position: 15
+sidebar_position: 4.8
 ---
 
 # IDO

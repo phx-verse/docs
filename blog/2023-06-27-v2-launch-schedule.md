@@ -13,6 +13,8 @@ The preliminary plan for the launch steps are as follows:
 2. The VotingEscrow and LP staking contract will be launched on `2023.7.3 08:00 (UTC+0)`. Users can stake LP and participate in VotingEscrow staking at that time.
 3. PHX/CFX trading pair will have initial liquidity added on Swappi on `July 3, 2023 at 08:00 (UTC+0)`. The initial price for PHX is **0.11 CFX**.
 
+<!-- truncate -->
+
 ## Farming
 
 PHX V2 Farming will start from `2023.7.3 08:00 (UTC+0) block timestamp(1688371200)` and the initial LPs available are:
