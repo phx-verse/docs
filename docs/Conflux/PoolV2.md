@@ -70,9 +70,9 @@ After the launch of PHX V2, PHX and cCFX will also create transaction pairs on S
 
 ## Deployments
 
-* CCFX: [0xA11AD495c3bF53c19368313A894bA49bc26e7f92](https://evm.confluxscan.net/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=transaction)
-* VotingEscrow: [0x067af87C50CC07f59C45569a0Ad2D3FB552e412c](https://evm.confluxscan.net/address/0x067af87c50cc07f59c45569a0ad2d3fb552e412c?tab=transaction)
-* FarmingController: [0x46A930f4F4940a8345C53b3B2b70d5b59D0B80A5](https://evm.confluxscan.net/address/0x46a930f4f4940a8345c53b3b2b70d5b59d0b80a5)
+* CCFX: [0xA11AD495c3bF53c19368313A894bA49bc26e7f92](https://evm.confluxscan.org/address/0xa11ad495c3bf53c19368313a894ba49bc26e7f92?tab=transaction)
+* VotingEscrow: [0x067af87C50CC07f59C45569a0Ad2D3FB552e412c](https://evm.confluxscan.org/address/0x067af87c50cc07f59c45569a0ad2d3fb552e412c?tab=transaction)
+* FarmingController: [0x46A930f4F4940a8345C53b3B2b70d5b59D0B80A5](https://evm.confluxscan.org/address/0x46a930f4f4940a8345c53b3b2b70d5b59d0b80a5)
 
 ## FAQs
 

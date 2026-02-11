@@ -25,7 +25,7 @@ The governance details and vote infrastructure is still under construction. We w
 
 ## PHX DAO Token
 
-The PHX DAO token play a key role in the PHXVerse. It is used for governance, staking, and liquidity mining. The PHX DAO token is a standard ERC-20 token. The initial supply is `100,000,000` PHX. It's address is [`0x13db4686f3d1d9ec918a70ae8fbd52f82949906c`](https://evm.confluxscan.net/token/0x13db4686f3d1d9ec918a70ae8fbd52f82949906c?tab=transfers) The PHX DAO token is distributed as follows:
+The PHX DAO token play a key role in the PHXVerse. It is used for governance, staking, and liquidity mining. The PHX DAO token is a standard ERC-20 token. The initial supply is `100,000,000` PHX. It's address is [`0x13db4686f3d1d9ec918a70ae8fbd52f82949906c`](https://evm.confluxscan.org/token/0x13db4686f3d1d9ec918a70ae8fbd52f82949906c?tab=transfers) The PHX DAO token is distributed as follows:
 
 * 50% - DAO Treasury
 * 30% - Investors
